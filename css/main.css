@@ -15,10 +15,62 @@ h2{
    font-family: Georgia;
    font-size: 16px;
 }
+
 h3{
    margin-top: 25px;
    margin-left: 25px;
    font-family: Georgia;
-   font-size: 24px;
+   font-size: 18px;
 
 }
+h4{
+   margin-top: 25px;
+   text-align: center;
+   font-family: Georgia;
+   font-size: 30px;
+}
+i{
+   font-style: italic;
+}
+
+.Reviews{
+   margin-left: 50px;
+   margin-right: 50px;
+   margin-top: 25px;
+}
+
+.Music{
+   margin-left: 100px;
+   margin-right: 50px;
+   margin-top: 12px;
+}
+
+.Tripartite{
+   margin-top: 12px;
+   margin-left: 50px;
+   margin-right: 50px;
+}
+
+.list{
+   margin-top: 12px;
+   margin-left: 100px;
+}
+
+.container{
+   align-items: center;
+   width: 1000px;
+   border-width: 5px;
+   border-color: black;
+   border-style: solid;
+   border-margin: 50px;
+   margin: auto;
+}
+.Music1{
+   margin-left: 100px;
+   margin-right: 50px;
+   margin-top: 12px;
+   margin-bottom: 12px;
+}
+
+
+
